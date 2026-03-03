@@ -8,3 +8,5 @@ POST
 PATCH
 <img width="1795" height="644" alt="image" src="https://github.com/user-attachments/assets/f24e187a-8af3-4cc6-8c95-fcf96ff2e7eb" />
 DELETE
+<img width="1265" height="422" alt="image" src="https://github.com/user-attachments/assets/997255e3-5e05-447c-b5cd-74c9e4538b00" />
+Вывод консоли
